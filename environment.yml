@@ -1,0 +1,26 @@
+name: healthcare-analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - notebook
+  - ipykernel
+  - nb_conda_kernels
+  - statsmodels
+  - scipy
+  - plotly
+  - dash
+  - requests
+  - geopandas
+  - bokeh
+  - folium
+  - sqlalchemy
+  - sqlite
+  - psycopg2
